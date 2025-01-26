@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practice_Assg
+namespace S10266942_Prg2_Assignment
 {
     internal class Terminal
     {

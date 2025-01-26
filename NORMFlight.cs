@@ -1,4 +1,4 @@
-using S10266695_prg2_assignment;
+namespace S10266942_Prg2_Assignment
 
 internal class NORMFlight : Flight
 {

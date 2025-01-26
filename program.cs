@@ -1,4 +1,4 @@
-using Practice_Assg;
+using S10266942_Prg2_Assignment;
 
 // Dictionaries to store Airline and Boarding Gate objects
 Dictionary<string, Airline> airlineDictionary = new Dictionary<string, Airline>();
